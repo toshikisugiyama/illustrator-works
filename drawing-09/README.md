@@ -1,2 +1,2 @@
 # drawing-09
-<img src='./character-09.svg' alt='character-09' />
+<img src='./drawing-09.svg' alt='drawing-09' />
